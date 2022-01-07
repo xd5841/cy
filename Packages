@@ -1,0 +1,16 @@
+Package: 139.114.125.145
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Debuggers <debugtool.app@gmail.com>
+Installed-Size: 53272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/DT1.4伪装包.deb
+Size: 15700398
+MD5sum: e6f22025717e60b2cc57d4b4bf0cb07a
+SHA1: 7af6b8a4276621eed2fa94e3e79c766637e7b91b
+SHA256: dc4eeddf23dc1b0b0fa50254e5f69464383a57ffe12f1d55dd381bf7d466aba4
+Section: k1
+Author: Debuggers
+Name: dt伪装包1.4
+Sponsor: Debuggers <debugtool.app@gmail.com>
+
